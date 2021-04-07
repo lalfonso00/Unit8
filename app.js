@@ -9,6 +9,7 @@ app.use(express.static('public'));
 let paths = [__dirname, 'public/pages'];
 
 
+
 let coworkers = ['Aggretsuko', 'Fenneko', 'Haida', 'Tsunoda', 'Kabae'];
 let friends = { Kiiroitori: {
 type:'bird',
